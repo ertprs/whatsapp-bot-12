@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot",
+  "main": "src/index.js",
+  "repository": "git@github.com:leanndroguedes/whatsapp-bot.git",
+  "author": "Leandro Guedes <leandroguedes@protonmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "venom-bot": "^1.1.4"
+  }
+}
