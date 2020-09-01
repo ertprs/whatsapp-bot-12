@@ -7,6 +7,9 @@
   "author": "Leandro Guedes <leandroguedes@protonmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "venom-bot": "^1.1.4"
   }
